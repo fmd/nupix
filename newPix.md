@@ -1,0 +1,1 @@
+is a graphics rendering engine (game) written in C++ with SDL/OpenGL. It uses openGL 2.x (and cannot run on openGL 1.x yet). It has (and continues to add) new features that tailor it to games that use a retro style (pixel art, etc). It is very much in its infancy, and currently has no formal documentation or support. Please use with caution.
